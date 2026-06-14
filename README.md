@@ -34,6 +34,16 @@ Scans AWS S3 buckets for security misconfigurations including:
 
 
 
+\## Screenshots
+
+
+
+!\[Before Fix](screenshots/audit\_before.png)
+
+!\[After Fix](screenshots/audit\_after.png)
+
+
+
 \## How To Run
 
 pip install boto3
